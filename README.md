@@ -1,3 +1,4 @@
+<a href="https://travis-ci.org/corsoft/spring-hateoas-demo"><img src="https://travis-ci.org/corsoft/spring-hateoas-demo.svg"/></a>
 spring-hateaos-demo
 ==================
 
