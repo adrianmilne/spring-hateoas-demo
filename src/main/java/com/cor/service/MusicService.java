@@ -32,7 +32,7 @@ public class MusicService {
 		Album album1 = new Album("1", "Heritage", artist1, 2);
 		Album album2 = new Album("2", "Deliverance", artist1, 3);
 		Album album3 = new Album("3", "Pale Communion", artist1, 0);
-		Album album4 = new Album("3", "Monotheist", artist2, 1);
+		Album album4 = new Album("4", "Monotheist", artist2, 1);
 		albums.put(album1.getId(), album1);
 		albums.put(album2.getId(), album2);
 		albums.put(album3.getId(), album3);
